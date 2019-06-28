@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlixsterApp</string>
+    <string name="lorem_ipsum_sdfghjgfdfghjngbfvdhtgbvdfghbvcdfghbvcxsdfgbvcxdsfgbvc_xdfbv_cxfgbv_cxdfgbv">Lorem Ipsum sdfghjgfdfghjngbfvdhtgbvdfghbvcdfghbvcxsdfgbvcxdsfgbvc xdfbv cxfgbv cxdfgbv</string>
+    <string name="movieselectedimage">movieSelectedimage</string>
+</resources>
